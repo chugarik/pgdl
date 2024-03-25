@@ -1,3 +1,6 @@
+# The notebook for analysis is called sql_my_analysis.ipynb
+
+
 # PGDL task
 ### Submission deadline: March 30th, 2024
 ![Argmax](https://raw.githubusercontent.com/argmaxml/image-search/master/assets/argmax.png)
